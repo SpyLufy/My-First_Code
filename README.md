@@ -1,4 +1,4 @@
-# March Project
+# First Code
 
 ## Usage
 Run `python main.py`
